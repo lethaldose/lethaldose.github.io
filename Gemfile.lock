@@ -93,4 +93,5 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll
   rake
